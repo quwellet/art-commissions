@@ -24,15 +24,45 @@ function el(tag, classes = [], attrs = {}) {
   return node;
 }
 
-function showPage(pageName) {
-  $$(".tab-btn").forEach((btn) => {
-    btn.classList.toggle("active", btn.dataset.page === pageName);
-  });
+const tabButtons = document.querySelectorAll(".tab-btn");
+const pages = document.querySelectorAll(".page");
 
-  $$(".page").forEach((page) => {
-    page.classList.toggle("active", page.dataset.page === pageName);
-  });
+function showPage(pageName, updateHash = true) {
+  const targetPage = document.querySelector(`.page[data-page="${pageName}"]`);
+  const targetButton = document.querySelector(`.tab-btn[data-page="${pageName}"]`);
+
+  if (!targetPage || !targetButton) return;
+
+  pages.forEach(page => page.classList.remove("active"));
+  tabButtons.forEach(button => button.classList.remove("active"));
+
+  targetPage.classList.add("active");
+  targetButton.classList.add("active");
+
+  if (updateHash) {
+    history.pushState(null, "", `#${pageName}`);
+  }
 }
+
+tabButtons.forEach(button => {
+  button.addEventListener("click", () => {
+    showPage(button.dataset.page);
+  });
+});
+
+function loadPageFromHash() {
+  const pageName = window.location.hash.slice(1);
+
+  if (pageName) {
+    showPage(pageName, false);
+  } else {
+    showPage("home", false);
+  }
+}
+
+window.addEventListener("hashchange", loadPageFromHash);
+
+loadPageFromHash();
 
 function applyGalleryFilters() {
   const { exclusive, criteria } = filterState;
