@@ -1,0 +1,368 @@
+{
+  "commission": {
+    "extra": [
+      {
+        "type": "Extras",
+        "features": [
+          "additional characters - 100% of the base price",
+          "complex character design - 20% of the base price (e.g. heavy armor, a large amount of metallic details,weapons, frills, and other highly detailed elements",
+          {
+            "label": "background:",
+            "items": [
+              "simple background - no additional charge, clean/simple background is included in the base price, gradient, minimal shapes, simple environment elements",
+              "basic background/light complexity - 50% of the price, partial or moderately detailed background, limited number of elements/probs",
+              "detailed background/full complexity - 100% of the price, fully rendered, detailed background, multiple props and elements interacting with scene, complex environments"
+            ]
+          },
+          "NSFW - 40% of the base price"
+        ]
+      }
+    ],
+    "cards": [
+      {
+        "type": "Simple Color",
+        "price": "from $30",
+        "features": [
+          "bust - $30",
+          "half body - $50",
+          "full body - $80",
+          "simple background included"
+        ],
+        "style": "simple-color",
+        "size": "bust",
+        "format": "illustration"
+      },
+      {
+        "type": "Full Render",
+        "price": "from $50",
+        "features": [
+          "bust - $50",
+          "half body - $70",
+          "full body - $100",
+          "simple background included"
+        ],
+        "style": "full-render",
+        "size": "half-body",
+        "format": "illustration"
+      },
+      {
+        "type": "Chibi",
+        "price": "from $30",
+        "features": [
+          "full body chibi",
+          "",
+          "",
+          "simple background included"
+        ],
+        "style": "simple-color",
+        "size": "full-body",
+        "format": "chibi"
+      },
+      {
+        "type": "Character sheet",
+        "price": "from $150",
+        "features": [
+          "Included: 1 full body + 1 half body + 1 chibi, simple background",
+          "Add-ons: bust - 30$, half body - 50$, full body - 80$",
+          "",
+          "limited number of props"
+        ],
+        "style": "full-render",
+        "size": "full-body",
+        "format": "character-sheet"
+      }
+    ]
+  },
+  "terms": {
+    "sections": [
+      {
+        "num": "01 - payment",
+        "heading": "Pricing & payment",
+        "text": "Payment is accepting via PayPal in USD. Full payment is required after the sketch has been approved. Work on the artwork will continue once the payment has been recived. Additional fees may apply for complex backgrounds, extra characters or other add-ons."
+      },
+      {
+        "num": "02 - process",
+        "heading": "Work process & revisions",
+        "text": "Work-in-progress updates will be provided throughout the commission process. Revisions are free before the detailing stage. Any changes requested afterward may require an additional fee unless the correction is due to my mistake."
+      },
+      {
+        "num": "03 - refunds",
+        "heading": "Refund Policy",
+        "text": "Refunds are not available. The only exception is if I am unable to complete the commission or choose to cancel it myself. In that case, a full refund will be issued."
+      },
+      {
+        "num": "04 - communication",
+        "heading": "Client Responsibilities",
+        "text": "Please provide clear references and instructions. Delays in communication may affect the completion time. I reserve the right to decline any commission request."
+      },
+      {
+        "num": "05 - usage ",
+        "heading": "Copyright & Usage",
+        "text": "The artist retains all rights to the artwork unless otherwise agreed upon. Commissioned artwork is intended for personal use only, unless commercial use has been agreed in advance. The finished piece may not be altered, edited, or modified in any way. "
+      },
+      {
+        "num": "06 - artist rights ",
+        "heading": "Publication & Portfolio",
+        "text": "I reserve the right to publish the artwork in my portfolio and social media, including watermarked and reduced-quality versions. Any request for delayed publication or non-publication must be communicated in advance."
+      },
+      {
+        "num": "07 - delivery ",
+        "heading": "Deadline & Delivery",
+        "text": "The estimated deadline for completing a commission is between 1 week and 1 month, depending on complexity and workload. Final artwork is delivered as high-resolution PNG via Google Drive or email."
+      },
+      {
+        "num": "08 - style ",
+        "heading": "Artistic Interpretation",
+        "text": "References will be carefully considered, but the final artwork will be created in the artist's own style. Small stylistic differences may appear depending on the interpretation of the design."
+      },
+      {
+        "num": "09 - content monetization ",
+        "heading": "Monetizes Content Use",
+        "text": "Monetized use of the artwork is allowed free of charge, including but not limited to YouTube videos, streams, social media content, and other revenue-generating platforms.\nProper and visible credit to the artist is strictly required in all cases where the artwork is used in monetized content. Credit must be clearly displayed in the description, post, or equivalent visible area depending on the platform.\nFailure to provide proper attribution may result in withdrawal of monetization permission."
+      },
+      {
+        "num": "10 - commercial use ",
+        "heading": "Commercial License",
+        "text": "Commercial use refers to the use of the artwork for business, promotional or revenue-related purposes, including branding, advertising, merchandise, packaging, and paid promotional materials.\nCommercial rights are charged as a +100% fee of the commission price. This license must be purchased before the work begins and applies only to the agreed usage scope.\nAny use outside the agreed commercial purpose requires additional permission from the artist and may be subject to additional fees.\nThe artist retains the right to display the artwork in their portfolio and social media unless otherwise agreed in advance."
+      }
+    ]
+  },
+  "gallery": {
+    "items": [
+      {
+        "title": "Lynne for odriett | 2026",
+        "meta": "Full Body · Artfight",
+        "style": "simple-color",
+        "size": "full-body",
+        "event": "artfight",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/af8.jpg"
+      },
+      {
+        "title": "Nezumi for LiliumArt | 2026",
+        "meta": "Half Body · Artfight",
+        "style": "simple-color",
+        "size": "full-body",
+        "event": "artfight",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/af7.jpg"
+      },
+      {
+        "title": "Isabella for THUNDRA | 2026",
+        "meta": "Half Body · Artfight",
+        "style": "simple-color",
+        "size": "full-body",
+        "event": "artfight",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/af6.jpg"
+      },
+      {
+        "title": "Deliora for VALKA_png | 2026",
+        "meta": "Half Body · Artfight",
+        "style": "simple-color",
+        "size": "full-body",
+        "event": "artfight",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/af5.jpg"
+      },
+      {
+        "title": "Chaim for jjaedee | 2026",
+        "meta": "Bust · Artfight",
+        "style": "simple-color",
+        "size": "full-body",
+        "event": "artfight",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/af4.jpg"
+      },
+      {
+        "title": "Leonora for muovikuusi | 2026",
+        "meta": "Half Body · Artfight",
+        "style": "simple-color",
+        "size": "full-body",
+        "event": "artfight",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/af3.jpg"
+      },
+      {
+        "title": "Niana for lluvv_stella | 2026",
+        "meta": "Half Body · Artfight",
+        "style": "simple-color",
+        "size": "full-body",
+        "event": "artfight",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/af2.jpg"
+      },
+      {
+        "title": "Laura for wwkioshi | 2026",
+        "meta": "Half Body · Artfight",
+        "style": "simple-color",
+        "size": "full-body",
+        "event": "artfight",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/af1.jpg"
+      },
+      {
+        "title": "LostArk fanart | 2026.03",
+        "meta": "Full Body · Full Render",
+        "style": "full-render",
+        "size": "full-body",
+        "format": "illustration",
+        "background": true,
+        "tile": "tile-wide",
+        "image": "images/1.jpg"
+      },
+      {
+        "title": "Melie | 2026.06",
+        "meta": "Character sheet",
+        "style": "full-render",
+        "size": "half-body",
+        "format": "character-sheet",
+        "background": false,
+        "tile": "tile-medium",
+        "image": "images/4.jpg"
+      },
+      {
+        "title": "Commission for rd_verity | 2025.12",
+        "meta": "Half Body · Full Render",
+        "style": "full-render",
+        "size": "half-body",
+        "format": "illustration",
+        "background": true,
+        "tile": "tile-tall",
+        "image": "images/7.jpg"
+      },
+      {
+        "title": "Mantis | 2026.06",
+        "meta": "Full Body · Simple Color",
+        "style": "simple-color",
+        "size": "full-body",
+        "format": "illustration",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/2.jpg"
+      },
+      {
+        "title": "Art trade  with animaniac_16 | 2026.06",
+        "meta": "Half Body · Simple Color",
+        "style": "simple-color",
+        "size": "half-body",
+        "format": "illustration",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/3.jpg"
+      },
+      {
+        "title": "Commission for zonnayabi | 2026.03",
+        "meta": "Half Body · Full Render",
+        "style": "full-render",
+        "size": "half-body",
+        "format": "illustration",
+        "background": true,
+        "tile": "tile-tall",
+        "image": "images/5.jpg"
+      },
+      {
+        "title": "LostArk fanart | 2025.12",
+        "meta": "Bust · Full Render",
+        "style": "full-render",
+        "size": "bust",
+        "format": "illustration",
+        "background": false,
+        "tile": "tile-medium",
+        "image": "images/6.jpg"
+      },
+      {
+        "title": "Commission for bigglobes_ | 2025.06",
+        "meta": "Half Body · Full Render",
+        "style": "full-render",
+        "size": "half-body",
+        "format": "illustration",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/8.jpg"
+      },
+      {
+        "title": "Commission for DraculSanguis | 2025.05",
+        "meta": "Full Body · Full Render",
+        "style": "full-render",
+        "size": "full-body",
+        "format": "illustration",
+        "background": true,
+        "tile": "tile-wide",
+        "image": "images/9.jpg"
+      },
+      {
+        "title": "Commission for sammythenurseshark | 2025.10",
+        "meta": "Bust · Full Render",
+        "style": "full-render",
+        "size": "bust",
+        "format": "illustration",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/10.jpg"
+      },
+      {
+        "title": "Commission for sadiessi_ | 2025.09",
+        "meta": "Full Body · Full Render",
+        "style": "full-render",
+        "size": "full-body",
+        "format": "illustration",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/11.jpg"
+      },
+      {
+        "title": "LostArk fanart | 2025.04",
+        "meta": "Half Body · Full Render",
+        "style": "full-render",
+        "size": "half-body",
+        "format": "illustration",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/12.jpg"
+      },
+      {
+        "title": "Castorice | 2025.01",
+        "meta": "Bust · Full Render",
+        "style": "full-render",
+        "size": "bust",
+        "format": "illustration",
+        "background": false,
+        "tile": "tile-medium",
+        "image": "images/13.jpg"
+      },
+      {
+        "title": "Tingyun | 2025.01",
+        "meta": "Bust · Full Render",
+        "style": "full-render",
+        "size": "bust",
+        "format": "illustration",
+        "background": false,
+        "tile": "tile-medium",
+        "image": "images/14.jpg"
+      },
+
+
+
+
+      {
+        "title": "WIP",
+        "meta": "Chibi",
+        "style": "simple-color",
+        "size": "full-body",
+        "format": "chibi",
+        "background": false,
+        "tile": "tile-medium",
+        "image": "images/glass-garden.jpg"
+      }
+    ]
+  }
+}
