@@ -354,14 +354,14 @@
 
 
       {
-        "title": "WIP",
+        "title": "Melonari | 2026.08",
         "meta": "Chibi",
         "style": "simple-color",
         "size": "full-body",
         "format": "chibi",
         "background": false,
         "tile": "tile-medium",
-        "image": "images/glass-garden.jpg"
+        "image": "chibi1.jpg"
       }
     ]
   }
