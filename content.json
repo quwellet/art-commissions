@@ -129,6 +129,17 @@
   },
   "gallery": {
     "items": [
+      
+      {
+        "title": "Melonari | 2026.08",
+        "meta": "Chibi",
+        "style": "simple-color",
+        "size": "full-body",
+        "format": "chibi",
+        "background": false,
+        "tile": "tile-medium",
+        "image": "images/chibi1.jpg"
+      },
       {
         "title": "Lynne for odriett | 2026",
         "meta": "Full Body · Artfight",
@@ -350,19 +361,6 @@
         "image": "images/14.jpg"
       },
 
-
-
-
-      {
-        "title": "Melonari | 2026.08",
-        "meta": "Chibi",
-        "style": "simple-color",
-        "size": "full-body",
-        "format": "chibi",
-        "background": false,
-        "tile": "tile-medium",
-        "image": "images/chibi1.jpg"
-      }
     ]
   }
 }
