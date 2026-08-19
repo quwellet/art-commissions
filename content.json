@@ -361,7 +361,7 @@
         "format": "chibi",
         "background": false,
         "tile": "tile-medium",
-        "image": "chibi1.jpg"
+        "image": "images/chibi1.jpg"
       }
     ]
   }
