@@ -131,6 +131,36 @@
     "items": [
       
       {
+        "title": "Commission for Erynnyen | 2026.03",
+        "meta": "Bust · Full Render",
+        "style": "full-render",
+        "size": "bust",
+        "format": "illustration",
+        "background": false,
+        "tile": "tile-wide",
+        "image": "images/15.jpg"
+      },
+      {
+        "title": "Sadie | 2026.09",
+        "meta": "Chibi",
+        "style": "simple-color",
+        "size": "full-body",
+        "format": "chibi",
+        "background": false,
+        "tile": "tile-medium",
+        "image": "images/chibi3.jpg"
+      },
+      {
+        "title": "Axel | 2026.08",
+        "meta": "Chibi",
+        "style": "simple-color",
+        "size": "full-body",
+        "format": "chibi",
+        "background": false,
+        "tile": "tile-medium",
+        "image": "images/chibi2.jpg"
+      },
+      {
         "title": "Melonari | 2026.08",
         "meta": "Chibi",
         "style": "simple-color",
