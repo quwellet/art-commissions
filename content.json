@@ -129,7 +129,27 @@
   },
   "gallery": {
     "items": [
-      
+
+      {
+        "title": "Commission for stjaernlis | 2026.09",
+        "meta": "Chibi",
+        "style": "simple-color",
+        "size": "full-body",
+        "format": "chibi",
+        "background": false,
+        "tile": "tile-medium",
+        "image": "images/chibi4.jpg"
+      },
+      {
+        "title": "Commission for stjaernlis | 2026.09",
+        "meta": "Full Body · Full Render",
+        "style": "full-render",
+        "size": "full-body",
+        "format": "illustration",
+        "background": false,
+        "tile": "tile-tall",
+        "image": "images/16.jpg"
+      },
       {
         "title": "Commission for Erynnyen | 2026.08",
         "meta": "Bust · Full Render",
